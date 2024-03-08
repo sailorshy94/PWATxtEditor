@@ -8,5 +8,5 @@ The purpose of this challenge is to create a text editor web browser application
 ![Img2](./assets/J-A-T-E-screenshot1.png)
 
 ## Links
-[GitHub Repo](http://https://github.com/sailorshy94/PWATxtEditor)    
-[Deployed App](http://https://aqueous-eyrie-22716-9f93798f1399.herokuapp.com/)
+[GitHub Repo](https://github.com/sailorshy94/PWATxtEditor)    
+[Deployed App](https://aqueous-eyrie-22716-9f93798f1399.herokuapp.com/)
