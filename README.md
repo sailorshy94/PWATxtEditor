@@ -9,4 +9,4 @@ The purpose of this challenge is to create a text editor web browser application
 
 ## Links
 [GitHub Repo](http://https://github.com/sailorshy94/PWATxtEditor)    
-[Deployed App](http://)
+[Deployed App](http://https://aqueous-eyrie-22716-9f93798f1399.herokuapp.com/)
